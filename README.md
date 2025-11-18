@@ -12,7 +12,7 @@ Before tech, I spent many years in music, art and care work, which still shapes 
 
 🐌 Currently working on:
 - Strengthening my troubleshooting & Linux skills  
-- Building projects that combine **music + cloud**  
+- Building projects that combine music + cloud  
 - Preparing for more Cloud / DevOps roles (junior level, remote / hybrid)
 
 🫀 I care about: clear communication, psychological safety in teams, and excellent workflows.
