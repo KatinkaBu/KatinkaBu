@@ -8,7 +8,7 @@ I’m a junior Cloud / DevOps Engineer with a background in Python backend, AWS,
 - Local observability stack with Docker Compose (Prometheus, Loki, Grafana, Promtail)
 - Squad collaboration and co-leading a small team
 
-Before tech, I spent many years in music, art and care work, which still shapes how I work and how I see the world around me: sensitive, full of details, and very aware of interpersonal dynamics and communication. The more I immerse myself in tech, the more I crave nature and appreciate everything that is alive around me even more. 🐞 I plan to travel with my two cats in a van one day. 
+Before tech, I spent many years in music, art and care work, which still shapes how I work and how I see the world around me: sensitive, full of details, and very aware of interpersonal dynamics and communication. The more I immerse myself in tech, the more I crave nature and appreciate everything that is alive around me even more. 🐞 I plan to travel with my two cats in a van one day. 🧳 🗺️
 
 🐌 Currently working on:
 - Strengthening my troubleshooting & Linux skills  
