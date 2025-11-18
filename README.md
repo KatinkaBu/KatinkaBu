@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Katharina 👋
 
-<!--
-**KatinkaBu/KatinkaBu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a junior Cloud / DevOps Engineer with a background in **Python backend**, **AWS**, **Terraform**, **Docker**, **CI/CD** and **observability** (Prometheus / Grafana).
 
-Here are some ideas to get you started:
+🦋I just completed a **60-week Software Engineering program (Masterschool)** and an **8-week full-time Cloud/DevSecOps internship at Webeet**, where I worked on:
+- CI/CD pipelines (GitHub Actions)
+- AWS infrastructure (S3, Route 53, DNS)
+- Local observability stack with Docker Compose (Prometheus, Loki, Grafana, Promtail)
+- Squad collaboration and co-leading a small team
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before tech, I spent many years in **music, art and care work**, which still shapes how I work and see the world around me: sensitive, full of details, and very aware of interpersonal dynamics and communication. The more I immerse myself in tech, the more I crave nature and appreciate everything that is alive around me even more 🐞 I plan to travel with my cats in a van as soon as I can. 
+
+🐌 **Currently working on:**
+- Strengthening my troubleshooting & Linux skills  
+- Building projects that combine **music + cloud**  
+- Preparing for more Cloud / DevOps roles (junior level, remote / hybrid)
+
+🫀 **I care about:** clear communication, psychological safety in teams, and excellent workflows.
+
+🤝🏼 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/katharinaburchin/) or via GitHub issues.
