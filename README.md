@@ -1,4 +1,4 @@
-# Hi, I’m Katharina 🪽
+# Hi, I’m Katharina!�
 
 I’m a junior Cloud / DevOps Engineer with a background in Python backend, AWS, Terraform, Docker, CI/CD and observability (Prometheus / Grafana).
 
