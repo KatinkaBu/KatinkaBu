@@ -2,7 +2,9 @@
 
 I’m a junior Cloud / DevOps Engineer with a background in Python backend, AWS, Terraform, Docker, CI/CD and observability (Prometheus / Grafana).
 
-🦋 I recently completed a 60-week Software Engineering program (Masterschool) and an 8-week full-time Cloud/DevSecOps internship at Webeet.io, where I worked on:
+🦋 
+
+Recently completed a 60-week Software Engineering program (Masterschool) and an 8-week full-time Cloud/DevSecOps internship at Webeet.io, where I worked on:
 - CI/CD pipelines (GitHub Actions)
 - AWS infrastructure (S3, Route 53, DNS)
 - Local observability stack with Docker Compose (Prometheus, Loki, Grafana, Promtail)
@@ -13,7 +15,8 @@ Before tech, I spent many years in music, art and care work, which still shapes 
 🐌 Currently working on:
 - Strengthening my troubleshooting & Linux skills  
 - Building projects that combine music & cloud  
-- Preparing for more Cloud / DevOps roles (junior level, remote / hybrid)
+- Preparing for more Cloud / DevOps roles (junior level, remote / hybrid / on site)
+- preparing for Cloud Practitioner Cretificate
 
 🫀 I care about clear communication, psychological safety in teams, and excellent workflows.
 
