@@ -21,6 +21,8 @@ Currently working on:
 - Building projects that combine music & cloud, Project "Cloud Music Diary" is in the making. 
 - Preparing for more Cloud / DevOps roles (junior level, remote / hybrid / on site).
 
+💪🏼 
+
 Just finfished:
 - Cloud Practitioner Cretificate [here](https://www.credly.com/badges/423991e1-36fc-4e69-9c13-a25dae7d24d5).
   
